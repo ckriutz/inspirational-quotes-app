@@ -1,5 +1,8 @@
 {
+  "name": "Python Flask Dev Container",
+  "image": "python:3.9",
   "tasks": {
     "launch": "flask run"
-  }
+  },
+  "postCreateCommand": "pip install -r requirements.txt"
 }
