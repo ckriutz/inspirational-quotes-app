@@ -1,2 +1,1 @@
-# inspirational-quotes-app
-A repository for a Flask app that displays random inspirational quotes
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
